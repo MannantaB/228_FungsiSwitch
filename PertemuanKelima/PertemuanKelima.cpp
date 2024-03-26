@@ -50,6 +50,13 @@ int main()
         cout << "====================" << endl;
         cout << "Masukan menu pilihan : ";
         cin >> pilihan;
+
+        switch(pilihan)
+
+            case 1:
+                inputData();
+                cout << "Hasil penjumlahan = " << penjumlahan(bilangan1, bilangan2) << endl;
+                break;
     }
 
 
