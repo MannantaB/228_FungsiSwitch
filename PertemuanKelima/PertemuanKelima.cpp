@@ -71,6 +71,10 @@ int main()
                 break;
             case 5:
                 break;
+
+            default:
+                cout << "Pilihan tidak ada" << endl;
+                break;
     }
 
 
