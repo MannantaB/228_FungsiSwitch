@@ -2,6 +2,9 @@
 //
 
 #include <iostream>
+using namespace std;
+
+int bilangan1, int bilangan2;
 
 int main()
 {
